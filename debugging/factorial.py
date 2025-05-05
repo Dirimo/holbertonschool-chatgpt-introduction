@@ -4,7 +4,7 @@ import sys
 
 def factorial(n):
     result = 1
-    if n == 1
+    if n == 0:
         return 1
     while n > 1:
         result *= n
